@@ -1,3 +1,6 @@
-#include <iostream>
-#include <string>
-using namespace std;
+class mode {
+    public:
+         int noMhs;
+         Node *next;
+         Node *prev;
+};
